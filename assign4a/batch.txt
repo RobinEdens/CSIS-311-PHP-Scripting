@@ -1,0 +1,5 @@
+use `robin-anderson_MENAGERIE`;
+show tables;
+select * from pet;
+select * from event;
+select distinct species from pet;

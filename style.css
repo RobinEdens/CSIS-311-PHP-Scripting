@@ -1,0 +1,55 @@
+body {
+	background-color: black;
+	color: green;
+}
+
+#header {
+	text-align: center;
+}
+
+#table_title th {
+	border: 5px solid green;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.assignment th {
+	border: 3px solid green;
+	border-left: none;
+	border-top: none;
+	border-right: none;
+}
+
+.assignment a:link {
+	color:white;	
+}
+
+.assignment a:visited{
+	color:white;
+	font-style: italic;
+}
+
+table {
+	border: 5px solid green;
+	width: 100%;
+}
+
+#assign_table tr:nth-child(even) {
+	background-color:121212;
+}
+
+#back_button {
+	text-align:center;
+}
+
+#frame_center {
+	text-align:center;
+}
+
+iframe {
+	height: 800px;
+	width: 90%;
+}

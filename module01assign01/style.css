@@ -1,0 +1,57 @@
+body {
+	background-color: black;
+	text-align: center;
+	border-style: solid;
+	border-color: green;
+	border-radius: 6px;
+	margin-top: 8px;
+	width: 800px;
+	margin: auto;
+}
+
+h1 {
+	padding-top: 10px;
+	color: lavender;
+	font-size: 36px;
+}
+
+h2 {
+	color: lavender;
+	font-size: 36px;
+	border-top: solid;
+	border-color: green;
+	border-radius: 6px;
+	padding-top: 10px;
+}
+
+a {
+	font-size: 24px;
+	color: lightblue;
+}
+
+p {
+	font-size: 16px;
+ 	text-align: justify;
+	width: 750px;
+	color: lavender;
+	margin: auto;
+	background-color: purple;
+	padding: 8px;
+	border-style: solid;
+	border-color: green;
+	border-radius: 6px;
+}
+
+ul { 
+	list-style-type: none;
+	width: 400px;
+	margin: auto;
+	padding: 8px;
+	text-align: left;
+	font-size:  18px;
+	background-color: purple;
+	border-style: solid;
+	border-color: green;
+	border-radius: 6px;
+	color: lavender;
+}

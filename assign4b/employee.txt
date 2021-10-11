@@ -1,0 +1,21 @@
+1	James	Jameson	1950-02-02	Jamestown	\N
+2	Jackie	Brown	1992-05-12	Finley		\N
+3	Bobbie	White	1980-05-11	Denver		\N
+4	Jennifer	Hale	1901-01-01	Los Angeles	\N
+5	Rebecca	Smith	1991-12-12	Fargo		\N
+6	Peter	Peterson	1988-11-10	Minneapolis	\N	
+7	Bob	Johnson	1902-11-30	Denver		\N	
+8	Duncan	Crocker	1985-01-22	Columbia	\N
+9	Barrack	Obama	1999-01-01	Fargo		\N
+10	Elmo	Slaughter	1999-12-31	Oklahoma City 	\N
+11	Dirk	Funk	1958-11-19	Bismarck	\N
+12	Orville	Nash	1981-03-11	Frederick	\N
+13	Frederick	Frack	1947-06-14	Billings	\N
+14	Kyle	Flesh	1954-08-01	Moracco		\N	
+15	Flip	Liquid	1881-01-01	Los Angeles	\N
+16	Luther	Manhole	1961-08-11	Little Rock		\N
+17	Rusty	Savage	1988-05-03	Maine			\N
+18	Noodle	Glump	1953-11-04	Jersey City		\N
+19	Emcee	Squakbox	1998-09-14	Florida City		\N
+20	Bort	Hacker	1983-11-30	Springfield	\N
+
